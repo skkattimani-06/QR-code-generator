@@ -110,13 +110,11 @@ No dependencies or build step needed.
 |---|---|
 | ![Light mode screenshot](assets/screenshot-light.png) | ![Dark mode screenshot](assets/screenshot-dark.png) |
 
----
 
 ## 📄 License
 
 Released under the [MIT License](https://opensource.org/licenses/MIT). Free to use, modify, and distribute.
 
----
 
 ## 👤 Author
 
